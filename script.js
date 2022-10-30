@@ -10,3 +10,7 @@ console.log('NameProduct:','bananas');
 console.log(PriceProduct * QuantityGoods);
 
 console.log(20 * 5);
+
+let TotalAmount;
+
+console.log(TotalAmount = PriceProduct * QuantityGoods);
